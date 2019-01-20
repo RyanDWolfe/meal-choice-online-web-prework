@@ -1,2 +1,2 @@
-def mean_choice("meat")
+def mean_choice('meat')
 end
